@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/advertee/static/css/main.3c3e3bd1.css",
+    "main.js": "/advertee/static/js/main.51abd183.js",
+    "static/js/488.da926f52.chunk.js": "/advertee/static/js/488.da926f52.chunk.js",
+    "static/media/dslrmanlogo.png": "/advertee/static/media/dslrmanlogo.cb21dfda794f475dcc60.png",
+    "index.html": "/advertee/index.html",
+    "static/media/mobile-menu.svg": "/advertee/static/media/mobile-menu.beab3be20f1e017d22b42568aff081ef.svg",
+    "main.3c3e3bd1.css.map": "/advertee/static/css/main.3c3e3bd1.css.map",
+    "main.51abd183.js.map": "/advertee/static/js/main.51abd183.js.map",
+    "488.da926f52.chunk.js.map": "/advertee/static/js/488.da926f52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c3e3bd1.css",
+    "static/js/main.51abd183.js"
+  ]
+}
